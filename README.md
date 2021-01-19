@@ -1,6 +1,7 @@
 # QMESL
 
-Please click on the .ipynb file for project deliverables.
+Contents:
+- `.ipynb` file: project deliverables.
 
 Abstract:
 
