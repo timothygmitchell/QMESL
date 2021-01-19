@@ -1,7 +1,11 @@
 # QMESL
 
 Contents:
-- `.ipynb` file: project deliverables.
+- `.ipynb` file: summary of analysis and results.
+- `.mp4` file: video recording of a virtual presentation I delivered at the Loyola Chicago Graduate Research Symposium.
+- `.py` file (2): Python scripts.
+- `.R` file: R script.
+- `.pdf` file: slides presentation in .pdf format. 
 
 Abstract:
 
