@@ -1,6 +1,5 @@
 # Quantitative Methods of Evaluating Song Lyrics
-# Timothy Mitchell with support from Dr. Gregory Matthews, Ph.D.
-# Loyola University Chicago
+# Timothy Mitchell with ideas from Dr. Gregory Matthews, Ph.D.
 
 library(NLP); library(cld3) # NLP
 library(FSA); library(sjstats); library(effsize) # effect sizes
